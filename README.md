@@ -2,7 +2,7 @@ INTROSDE 2016 Assignment 03 - Server
 ===============
 
 #### The service can be accessed on heroku with the following link:
-https://guarded-gorge-29938.herokuapp.com/
+https://peaceful-refuge-65233.herokuapp.com/
 
 
 #### The client to execute requests can be found here:
